@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>Recurring</PackageId>
+    <Authors>Waleed Aslam</Authors>
+    <Product>Recurring</Product>
+    <Description>Package for creating recurring-events</Description>
+    <PackageIcon>276011-200.png</PackageIcon>
+    <RepositoryUrl>https://github.com/walidaslam7/recurring-events.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags></PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\Waleed.Aslam\Downloads\276011-200.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
